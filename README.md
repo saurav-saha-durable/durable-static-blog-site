@@ -74,7 +74,7 @@ excerpt: "A deep dive into one of JavaScript's core concepts: closures."
 JavaScript closures are a powerful feature that allows functions to access variables from an outer function even after that function has finished executing.
 ```
 
-Save the file in the posts folder. The blog post will automatically appear on the homepage when the site is running.
+Save the file in the posts folder. The blog post will appear on the homepage when the site is rebuilt.
 
 ## Additional Information
 
