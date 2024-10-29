@@ -1,4 +1,4 @@
-# Static Blog Site - README
+# Static Blog Site
 
 This project is a static blog site built with Next.js, allowing you to add new blog posts as Markdown files with frontmatter metadata. Follow the instructions below to add a new blog post and run the site locally.
 
