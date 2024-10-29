@@ -1,0 +1,21 @@
+article div {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.post {
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  background: #ffcc80;
+  border: 3px solid #ff9800;
+}
+
+.metadata {
+  display: flex;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 4px;
+}
